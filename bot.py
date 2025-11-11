@@ -17,7 +17,7 @@ from telegram.ext import (
 )
 
 # ====== BASIC CONFIG ======
-BOT_TOKEN = "PUT-YOUR-BOT-TOKEN-HERE"
+BOT_TOKEN = "8370403090:AAHGo3RuBHi-h-8JZNS-n-Ew5Jx7gvHIsDc"
 ADMIN = "MinexxProo"     # admin username only (without @)
 
 DATAFILE = "data.json"
